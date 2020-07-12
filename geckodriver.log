@@ -1,0 +1,395 @@
+1594571338291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3pecmN"
+1594571341610	Marionette	INFO	Listening on port 33209
+1594571341727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594571357430	Marionette	INFO	Stopped listening on port 33209
+1594571376654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1gZtEY"
+1594571380171	Marionette	INFO	Listening on port 46101
+1594571380273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594571390345	Marionette	INFO	Stopped listening on port 46101
+JavaScript error: , line 0: uncaught exception: Object
+1594571403140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZdx4Jo"
+1594571406602	Marionette	INFO	Listening on port 42247
+1594571406659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594571421419	Marionette	INFO	Stopped listening on port 42247
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594571642091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezMohIj"
+1594571645443	Marionette	INFO	Listening on port 39871
+1594571645531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594572465114	Marionette	INFO	Stopped listening on port 39871
+1594574005036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDDETd4"
+1594574009327	Marionette	INFO	Listening on port 38193
+1594574009369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-MK4WR5, line 195: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5KL3JSF&l=_siteDataLayer, line 1084: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtag/js, line 47: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.googletagmanager.com/gtag/js?id=UA-2671104-1&l=dataLayer&cx=c, line 61: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.blueconic.net/comoto.js, line 67: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.blueconic.net/comoto.js, line 141: TypeError: document.location is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1594574022655	Marionette	INFO	Stopped listening on port 38193
+1594574067969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezlH2EH"
+1594574072436	Marionette	INFO	Listening on port 38741
+1594574072507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594574078543	Marionette	INFO	Stopped listening on port 38741
+1594574183777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile13OWTO"
+1594574187110	Marionette	INFO	Listening on port 40413
+1594574187208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594574192508	Marionette	INFO	Stopped listening on port 40413
+1594574271305	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuNNmm1"
+1594574274753	Marionette	INFO	Listening on port 46155
+1594574274815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594574278434	Marionette	INFO	Stopped listening on port 46155
+1594574294326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevTxSsw"
+1594574298061	Marionette	INFO	Listening on port 37539
+1594574298139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594574310159	Marionette	INFO	Stopped listening on port 37539
+1594574515335	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0sVfMB"
+1594574519221	Marionette	INFO	Listening on port 41941
+1594574519266	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594574551374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewNkbJd"
+1594574555714	Marionette	INFO	Listening on port 45463
+1594574555793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594574557528	Marionette	INFO	Stopped listening on port 41941
+1594574566839	Marionette	INFO	Stopped listening on port 45463
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1594574612675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLKyr2n"
+1594574617972	Marionette	INFO	Listening on port 33961
+1594574618010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594574857940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepfjMPa"
+1594574861342	Marionette	INFO	Listening on port 33497
+1594574861364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594574893914	Marionette	INFO	Stopped listening on port 33497
+JavaScript error: https://eus.rubiconproject.com/usync.html, line 12: SecurityError: The operation is insecure.
+1594574988472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP3sg9t"
+1594574991862	Marionette	INFO	Listening on port 37775
+1594574991898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594575741709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJk3Te5"
+1594575745957	Marionette	INFO	Listening on port 33293
+1594575746036	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594575746829	Marionette	INFO	Stopped listening on port 37775
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594575835619	Marionette	INFO	Stopped listening on port 33293
+1594575986145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewlutQt"
+1594575989772	Marionette	INFO	Listening on port 43579
+1594575989855	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cgsearch.dancemagazine.com"
+1594576027841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2t4hA2"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594576031625	Marionette	INFO	Stopped listening on port 43579
+1594576032028	Marionette	INFO	Listening on port 44039
+1594576032064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594576069154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZbcEBH"
+1594576072857	Marionette	INFO	Listening on port 46557
+1594576072880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594576073012	Marionette	INFO	Stopped listening on port 44039
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594576130533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevgNVhx"
+1594576133275	Marionette	INFO	Stopped listening on port 46557
+1594576134803	Marionette	INFO	Listening on port 34125
+1594576134892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cgsearch.dancemagazine.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cgsearch.dancemagazine.com"
+1594576333406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ffLEG"
+1594576337618	Marionette	INFO	Listening on port 43849
+1594576337638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1594576384754	Marionette	INFO	Stopped listening on port 43849
+1594576769472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3jZNZj"
+1594576774185	Marionette	INFO	Listening on port 37127
+1594576774236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594576887627	Marionette	INFO	Stopped listening on port 37127
+1594576949576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileURjhKR"
+1594576953547	Marionette	INFO	Listening on port 38983
+1594576953654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594576999770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHpsLIq"
+1594577003758	Marionette	INFO	Listening on port 46123
+1594577003808	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594577007077	Marionette	INFO	Stopped listening on port 38983
+1594577013074	Marionette	INFO	Stopped listening on port 34125
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cgsearch.dancemagazine.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594577073031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyDB6XX"
+1594577076552	Marionette	INFO	Listening on port 38759
+1594577076642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594577190510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAMX01M"
+1594577194008	Marionette	INFO	Listening on port 33909
+1594577194034	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594577199069	Marionette	INFO	Stopped listening on port 38759
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594577201149	Marionette	INFO	Stopped listening on port 46123
+1594577237785	Marionette	INFO	Stopped listening on port 33909
+1594577751272	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT4jHrn"
+1594577754793	Marionette	INFO	Listening on port 37971
+1594577754907	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594577802044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL6TJBN"
+1594577805449	Marionette	INFO	Listening on port 34911
+1594577805461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577840980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHhz24G"
+1594577844627	Marionette	INFO	Listening on port 43767
+1594577844706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577861629	Marionette	INFO	Stopped listening on port 43767
+1594577865669	Marionette	INFO	Stopped listening on port 37971
+1594577908933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2550Ad"
+1594577912329	Marionette	INFO	Listening on port 38527
+1594577912348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577951348	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGGdOHX"
+1594577954717	Marionette	INFO	Listening on port 41025
+1594577954777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594577967870	Marionette	INFO	Stopped listening on port 41025
+1594577988235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekw2tQf"
+1594577991631	Marionette	INFO	Listening on port 36283
+1594577991649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594578005568	Marionette	INFO	Stopped listening on port 36283
+1594578030062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesg41gU"
+1594578033423	Marionette	INFO	Listening on port 34347
+1594578033530	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594578042209	Marionette	INFO	Stopped listening on port 34347
+1594578070563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWEvGCM"
+1594578074155	Marionette	INFO	Listening on port 43941
+1594578074186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594578082632	Marionette	INFO	Stopped listening on port 43941
+1594578118401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCtqpLn"
+1594578121799	Marionette	INFO	Listening on port 38673
+1594578121824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594578128935	Marionette	INFO	Stopped listening on port 38673
+1594578172055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCEsoJ1"
+1594578175333	Marionette	INFO	Listening on port 34153
+1594578175369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/static/dist/social-ux/main.b669836f76df6321cfba.bundle.js, line 1: TypeError: t.getByName is not a function
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594578302785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef61agP"
+1594578306224	Marionette	INFO	Listening on port 44069
+1594578306300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/static/dist/social-ux/main.b669836f76df6321cfba.bundle.js, line 1: TypeError: t.getByName is not a function
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594578350977	Marionette	INFO	Stopped listening on port 34153
+1594578351061	Marionette	INFO	Stopped listening on port 44069
+1594578406215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1rmmkz"
+1594578409781	Marionette	INFO	Listening on port 40837
+1594578409846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+1594578437374	addons.xpi	WARN	Not converting unknown addon type undefined
+1594578437376	addons.xpi	WARN	Can't get modified time of /usr/lib/thunderbird/features/wetransfer@extensions.thunderbird.net
+1594578437479	addons.xpi-utils	WARN	addMetadata: Add-on wetransfer@extensions.thunderbird.net is invalid: [Exception... "Component returned failure code: 0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST) [nsIFile.isFile]"  nsresult: "0x80520006 (NS_ERROR_FILE_TARGET_DOES_NOT_EXIST)"  location: "JS frame :: resource://gre/modules/addons/XPIInstall.jsm :: get :: line 235"  data: no] Stack trace: get()@resource://gre/modules/addons/XPIInstall.jsm:235
+syncLoadManifest()@resource://gre/modules/addons/XPIInstall.jsm:754
+addMetadata()@resource://gre/modules/addons/XPIDatabase.jsm:2711
+processFileChanges()@resource://gre/modules/addons/XPIDatabase.jsm:3152
+checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:2946
+startup()@resource://gre/modules/addons/XPIProvider.jsm:2406
+callProvider()@resource://gre/modules/AddonManager.jsm:213
+_startProvider()@resource://gre/modules/AddonManager.jsm:649
+startup()@resource://gre/modules/AddonManager.jsm:873
+startup()@resource://gre/modules/AddonManager.jsm:3470
+observe()@resource://gre/modules/addonManager.js:70
+1594578437480	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1594578437960	addons.xpi-utils	WARN	addMetadata: Add-on messagingmenu@mozilla.com is invalid: Error: File /usr/lib/thunderbird/extensions/messagingmenu@mozilla.com.xpi does not contain a valid manifest(resource://gre/modules/addons/XPIInstall.jsm:671:11) JS Stack trace: loadManifest@XPIInstall.jsm:671:11
+awaitPromise@XPIProvider.jsm:228:15
+syncLoadManifest@XPIInstall.jsm:755:22
+addMetadata@XPIDatabase.jsm:2711:32
+processFileChanges@XPIDatabase.jsm:3152:26
+checkForChanges@XPIProvider.jsm:2946:55
+startup@XPIProvider.jsm:2406:12
+callProvider@AddonManager.jsm:213:31
+_startProvider@AddonManager.jsm:649:5
+startup@AddonManager.jsm:873:14
+startup@AddonManager.jsm:3470:26
+observe@addonManager.js:70:29
+1594578437960	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1594578441542	addons.xpi	WARN	Not converting unknown addon type undefined
+1594578441544	addons.xpi	WARN	Can't get modified time of /usr/lib/thunderbird/features/wetransfer@extensions.thunderbird.net
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594578520777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3oXyKo"
+1594578524203	Marionette	INFO	Listening on port 36497
+1594578524312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+1594578556524	addons.xpi	WARN	Not converting unknown addon type undefined
+1594578561273	addons.xpi	WARN	Not converting unknown addon type undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594578571803	Marionette	INFO	Stopped listening on port 40837
+1594578574446	Marionette	INFO	Stopped listening on port 36497
+1594578627577	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileovmy5U"
+1594578630857	Marionette	INFO	Listening on port 46403
+1594578630887	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+1594578680325	addons.xpi	WARN	Not converting unknown addon type undefined
+1594578684584	addons.xpi	WARN	Not converting unknown addon type undefined
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594578734739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8YM06j"
+1594578738053	Marionette	INFO	Listening on port 44527
+1594578738153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/HandlerService.js, line 479: NS_ERROR_NOT_IMPLEMENTED: Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIHandlerInfo.hasDefaultHandler]
+1594578793187	addons.xpi	WARN	Not converting unknown addon type undefined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594578807652	Marionette	INFO	Stopped listening on port 44527
+1594578822870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ6hPq1"
+1594578826107	Marionette	INFO	Listening on port 34493
+1594578826184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+1594578909176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoKc0ZW"
+1594578912642	Marionette	INFO	Listening on port 43357
+1594578912688	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594578915872	Marionette	INFO	Stopped listening on port 46403
+1594578918406	Marionette	INFO	Stopped listening on port 34493
+JavaScript error: https://www.dancemagazine.com/the-college-guide-search-2306858059.html line 1 > scriptElement, line 2: TypeError: document.querySelector(...) is null
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1594579055984	Marionette	INFO	Stopped listening on port 43357
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1D0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1594583090016	Marionette	INFO	Stopped listening on port 33961
+1594585595081	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUHRdQM"
+1594585598777	Marionette	INFO	Listening on port 44839
+1594585598817	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594585614068	Marionette	INFO	Stopped listening on port 44839
+1594585764854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile026dIt"
+1594585768110	Marionette	INFO	Listening on port 37607
+1594585768166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594585817344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUpl11j"
+1594585820700	Marionette	INFO	Listening on port 44203
+1594585820804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594585923183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNFYd6f"
+1594585926734	Marionette	INFO	Listening on port 46317
+1594585926833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594585957632	Marionette	INFO	Stopped listening on port 46317
+1594586083844	Marionette	INFO	Stopped listening on port 37607
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594587195970	Marionette	INFO	Stopped listening on port 44203
+1594587278113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8NvKom"
+1594587281570	Marionette	INFO	Listening on port 45207
+1594587281626	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594587497477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXoMrGa"
+1594587501199	Marionette	INFO	Listening on port 43243
+1594587501293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594587502054	Marionette	INFO	Stopped listening on port 45207
+1594587660064	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexP6M7f"
+1594587663829	Marionette	INFO	Listening on port 38021
+1594587663884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594587759409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesPQqBS"
+1594587762747	Marionette	INFO	Listening on port 35091
+1594587762859	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594587848709	Marionette	INFO	Stopped listening on port 35091
+1594587876158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6GMYqR"
+1594587879534	Marionette	INFO	Listening on port 36023
+1594587879570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594587985330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaMAcD4"
+1594587988851	Marionette	INFO	Listening on port 36849
+1594587988980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594587990876	Marionette	INFO	Stopped listening on port 36023
+1594587992831	Marionette	INFO	Stopped listening on port 38021
+1594587994289	Marionette	INFO	Stopped listening on port 43243
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1594588450052	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTaWa4H"
+1594588453452	Marionette	INFO	Listening on port 41099
+1594588453503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594588684743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2ocwDJ"
+1594588688158	Marionette	INFO	Listening on port 40075
+1594588688268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589250484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevTOECt"
+1594589253985	Marionette	INFO	Listening on port 35139
+1594589254005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1594589258813	Marionette	INFO	Stopped listening on port 40075
+1594589260537	Marionette	INFO	Stopped listening on port 41099
+1594589361139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles32O2f"
+1594589365717	Marionette	INFO	Listening on port 34829
+1594589365758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589368946	Marionette	INFO	Stopped listening on port 35139
+1594589409502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7AR3hC"
+1594589412967	Marionette	INFO	Listening on port 35961
+1594589413033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594589418148	Marionette	INFO	Stopped listening on port 34829
