@@ -6,15 +6,35 @@ from selenium import webdriver
 from time import sleep
 from selenium.webdriver.common.by import By
 from scrapy.selector import Selector
+from urllib.parse import urlparse, urljoin
+from urllib.parse import urljoin
+from scrapy.linkextractors.lxmlhtml import LxmlLinkExtractor
+import re
+from scrapy import Request
+from scrapy import Spider
+import urllib.parse
 
 
 class MagzineSpider(scrapy.Spider):
     name = 'Magzine'
     start_urls = [
         'https://cgsearch.dancemagazine.com/search.php']
+    search_url = "https://cgsearch.dancemagazine.com/"
 
     def __init__(self):
         self.driver = webdriver.Firefox()
+
+    def parse_results_page(self, response):
+
+        yield{
+            'urls': response}
+        # urls = dataa.xpath(
+        #     '//*[@style="float:left;max-width:600px"]//div//text()').extract()
+
+        # sel = Selector(response)
+        # yield{
+        #     'data': sel
+        # }
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -34,10 +54,20 @@ class MagzineSpider(scrapy.Spider):
         # sleep(3)
         data = Selector(text=html).css('span::text').getall()
 
-        yield {
-            'html': html,
-            # 'data': data
+        urlsData = Selector(text=html).css('a').xpath('@href').getall()
+        for page_url in urlsData:
+            page_url = urljoin(self.search_url, page_url)
+            yield {
+                'data': page_url
+            }
+            yield Request(page_url, callback=self.parse_results_page)
 
-        }
+        # item_urls = self.sel.xpath('//*[@style="float:left;max-width:600px"]//div//text()').extract()
 
-        # self.driver.close()
+    # yield {
+    #     'html': data,
+    #     # 'data': data
+
+    # }
+
+        self.driver.close()
