@@ -13,6 +13,8 @@ import re
 from scrapy import Request
 from scrapy import Spider
 import urllib.parse
+import pandas as pd
+import numpy as np
 
 
 class MagzineSpider(scrapy.Spider):
@@ -26,15 +28,41 @@ class MagzineSpider(scrapy.Spider):
 
     def parse_results_page(self, response):
 
+        sel = Selector(response)
+        name = sel.xpath(
+            '//*[@style="float:left;max-width:600px"]').css('div.largerText::text')[0].extract()
+        address = sel.xpath(
+            '//*[@style="float:left;max-width:600px"]').css('div.largerText::text')[1].extract()
+        city = sel.xpath(
+            '//*[@style="float:left;max-width:600px"]').css('div.largerText::text')[2].extract()
+        deptHead = sel.xpath(
+            '//*[@style="float:left;max-width:600px"]').css('div.largerText::text')[3].extract()
+        phone = sel.xpath(
+            '//*[@style="float:left;max-width:600px"]').css('div.largerText::text')[4].extract()
         yield{
-            'urls': response}
-        # urls = dataa.xpath(
-        #     '//*[@style="float:left;max-width:600px"]//div//text()').extract()
+            # 'name': name,
+            # 'address': address,
+            # 'city': city,
+            # 'depHead': deptHead,
+            'phone': phone,
+        }
+        # UniversityDetails = pd.DataFrame({
+        #     # 'name': name,
+        #     # 'address': address,
+        #     # 'city': city,
+        #     # 'deptHead': deptHead,
+        #     'phone': phone,
+        # })
+        # UniversityDetails['phone'] = UniversityDetails['year'].str.extract(
+        #     '(\d+)').astype(int)
+        # UniversityDetails.to_csv('UniversityDetails.csv')
+    # urls = dataa.xpath(
+    #     '//*[@style="float:left;max-width:600px"]//div//text()').extract()
 
-        # sel = Selector(response)
-        # yield{
-        #     'data': sel
-        # }
+    # sel = Selector(response)
+    # yield{
+    #     'data': sel
+    # }
 
     def parse(self, response):
         self.driver.get(response.url)
@@ -52,14 +80,14 @@ class MagzineSpider(scrapy.Spider):
         # data = self.driver.find_element(
         #     By.NAME, "genre_performance").click()
         # sleep(3)
+
+        # Name Of University get in
         data = Selector(text=html).css('span::text').getall()
 
         urlsData = Selector(text=html).css('a').xpath('@href').getall()
         for page_url in urlsData:
             page_url = urljoin(self.search_url, page_url)
-            yield {
-                'data': page_url
-            }
+
             yield Request(page_url, callback=self.parse_results_page)
 
         # item_urls = self.sel.xpath('//*[@style="float:left;max-width:600px"]//div//text()').extract()
